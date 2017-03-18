@@ -1,3 +1,5 @@
+#!C:\Python33\python.exe
+
 #set variables
 total_sum = 0
 
